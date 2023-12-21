@@ -1,0 +1,182 @@
+[
+    {
+        "id": "neumático-calle",
+        "titulo": "Neumático calle",
+        "imagen": "./img/neumaticos/calle.png",
+        "categoria": {
+            "nombre": "Neumáticos",
+            "id": "neumáticos"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "neumático-deportivo",
+        "titulo": "Neumático deportivo",
+        "imagen": "./img/neumaticos/deportivo.png",
+        "categoria": {
+            "nombre": "Neumáticos",
+            "id": "neumáticos"
+        },
+        "precio": 125000
+    },
+    {
+        "id": "neumático lluvia",
+        "titulo": "Neumático lluvia",
+        "imagen": "./img/neumaticos/lluvia.png",
+        "categoria": {
+            "nombre": "Neumáticos",
+            "id": "neumáticos"
+        },
+        "precio": 125000
+    },
+    {
+        "id": "neumático carrera",
+        "titulo": "Neumático carrera",
+        "imagen": "./img/neumaticos/carrera.png",
+        "categoria": {
+            "nombre": "Neumáticos",
+            "id": "neumáticos"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "neumáticos-rally",
+        "titulo": "Neumático rally",
+        "imagen": "./img/neumaticos/rally.png",
+        "categoria": {
+            "nombre": "Neumáticos",
+            "id": "neumáticos"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "amortiguadores-calle",
+        "titulo": "Amortiguador Calle",
+        "imagen": "./img/amortiguadores/calle.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "amortiguadores-deportivos",
+        "titulo": "Amortiguador Deportivo",
+        "imagen": "./img/amortiguadores/deportivo.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "amortiguadores-blandos",
+        "titulo": "Amortiguador blando",
+        "imagen": "./img/amortiguadores/blando.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "amortiguadores-duros",
+        "titulo": "Amortiguador duro",
+        "imagen": "./img/amortiguadores/duro.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "amortiguadores-regulables",
+        "titulo": "Amortiguador regulable",
+        "imagen": "./img/amortiguadores/regulable.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "amortiguadores-enduro",
+        "titulo": "Amortiguador enduro",
+        "imagen": "./img/amortiguadores/enduro.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "amortiguadores-hidráulicos",
+        "titulo": "Amortiguador hidráulico",
+        "imagen": "./img/amortiguadores/hidráulico.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "amortiguadores-carreras",
+        "titulo": "Amortiguador carrera",
+        "imagen": "./img/amortiguadores/carrera.png",
+        "categoria": {
+            "nombre": "Amortiguadores",
+            "id": "amortiguadores"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "frenos-calle",
+        "titulo": "Freno calle",
+        "imagen": "./img/frenos/calle.png",
+        "categoria": {
+            "nombre": "Frenos",
+            "id": "frenos"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "frenos-deportivos",
+        "titulo": "Freno Deportivo",
+        "imagen": "./img/frenos/deportivo.png",
+        "categoria": {
+            "nombre": "Frenos",
+            "id": "frenos"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "frenos-carrera-s",
+        "titulo": "Freno Carrera S",
+        "imagen": "./img/frenos/carrera-s.png",
+        "categoria": {
+            "nombre": "Frenos",
+            "id": "frenos"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "frenos-carrera-gt",
+        "titulo": "Freno Carrera GT",
+        "imagen": "./img/frenos/carrera-gt.png",
+        "categoria": {
+            "nombre": "Frenos",
+            "id": "frenos"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "frenos-carrera-gtr",
+        "titulo": "Freno Carrera GTR",
+        "imagen": "./img/frenos/carrera-gts.png",
+        "categoria": {
+            "nombre": "Frenos",
+            "id": "frenos"
+        },
+        "precio": 100000
+    }
+]
