@@ -1,5 +1,5 @@
 # 💫 Entrega Final:
-Finalizando JS ... Empieza REACT!!!
+Finalizando JS!!!
 
 Aún con mucho por aprender. Laburando y estudiando ---> 
 
